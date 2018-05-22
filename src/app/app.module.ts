@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { EllipsisModule } from './multiline-ellipsis';
+import { MultilineEllipsisModule } from './multiline-ellipsis';
 
 @NgModule({
   declarations: [
@@ -10,7 +10,7 @@ import { EllipsisModule } from './multiline-ellipsis';
   ],
   imports: [
     BrowserModule,
-    EllipsisModule
+    MultilineEllipsisModule
   ],
   providers: [],
   bootstrap: [AppComponent]

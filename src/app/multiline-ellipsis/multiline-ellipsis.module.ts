@@ -6,4 +6,4 @@ import { MultilineEllipsisDirective } from './multiline-ellipsis.directive';
   declarations: [MultilineEllipsisDirective],
   exports: [MultilineEllipsisDirective]
 })
-export class EllipsisModule { }
+export class MultilineEllipsisModule { }
