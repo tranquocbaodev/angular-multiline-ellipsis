@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular2MultilineEllipsis
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-multiline-ellipsis
+angular multiline ellipsis
+>>>>>>> bc13622afdeeb8a060dd05782b23a5552e5ec959
