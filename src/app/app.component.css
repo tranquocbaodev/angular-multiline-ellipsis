@@ -1,0 +1,16 @@
+:host {
+  display: block;
+  font-family: Arial, sans-serif;
+}
+
+.content-page {
+  padding: 30px;
+}
+
+p {
+  height: 200px;
+  overflow: hidden;
+  padding: 1rem;
+  width: 200px;
+  border: 1px solid;
+}
